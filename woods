@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Beet Chocolate Cake</title>
+<style>
+    h1 {
+        color:crimson;
+    }
+    
+    h2 {
+        color: blue;
+    }
+    
+    li.yield {font-size: 1.25em;}    
+    div.ingredients {
+        background-color:beige;
+        padding: 20px 20px 20px 20px;
+        border: 6px dotted crimson;} 
+    div.ingredients li{color:crimson;}
+    
+    div.directions {
+        background-color:beige;
+        padding: 20px 20px 20px 20px;
+        border: 6px dotted crimson;} 
+    div.directions li{color:crimson;}
+    div.container {
+          background-color:#fff;
+            max-width: 700px;
+        margin: 40px auto;}
+        img {
+            margin: 0 0px 10px 0px;
+            width: 100%;
+            height: auto;}
+    </style>
+    
+    </head>
+<body>
+  <div class="container">  
+<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/2317/5695715663_63b825b947_b.jpg" alt="beet chocolate cake"><a href="https://www.flickr.com/photos/63357684@N00/5695715663">"beet chocolate cake"</a><span> by <a href="https://www.flickr.com/photos/63357684@N00">gay.goy.gourmet</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-SA 2.0</a><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" 
+Alt= Picture of Beet Chocolate Cake alt=""/></a>
+</p>
+
+    
+<h1>Beet Chocolate Cake</h1> 
+
+<p> The beets give this gluten-free chocolate cake a red velvet color and also surprises you with a buttery moitstness that you'd never guess was dairy-free.</p>
+  <ul>  
+<li class="yield">Prep Time: 25 mins</li>
+
+<li class="yield">Servings: 8</li>
+    
+<li class="yield">Total: 3 hrs </li>
+      </ul>
+    <div class="ingredients"> 
+<h2>Ingredients:</h2>
+    <ul>
+<li>4 medium beets, trimmed, peeled, and cut into 2-inch chunks</li>
+<li>2 cups all-purpose flour</li>
+<li>1 1/2 cups sugar</li>
+<li>1/2 cup unsweetened Dutch-process cocoa powder</li>
+<li>1 1/2 teaspoons baking soda
+Salt</li>
+<li>2 large eggs</li>
+<li>3/4 cup warm water</li>
+<li>1/4 cup safflower oil</li>
+<li>1 teaspoon pure vanilla extract</li>
+<li>Vegetable oil cooking spray</li>
+<li>Chocolate Glaze for Chocolate Beet Cake</li>
+<li>Candied Beet Chips for Chocolate Beet Cake, for garnish</li>
+</ul>
+</div>
+    <div class="directions">
+<h2>Directions:</h2>
+  <ol>  
+<li>Cover beets with 2 inches water in a pot. Bring to a boil. Reduce heat, and simmer until very tender when pierced with the tip of a sharp paring knife, about 30 minutes. Drain. Puree beets in a food processor until smooth.</li>
+
+
+<li>Preheat oven to 350 degrees. Whisk together flour, sugar, cocoa powder, baking soda, and 3/4 teaspoon salt in a large bowl. Whisk in eggs, water, oil, vanilla, and 1 1/4 cups beet puree (reserve remaining puree for another use).</li>
+
+
+<li>Coat a 9-inch round cake pan (3 inches deep) with cooking spray. Line bottom with parchment, and coat with spray. Pour batter into pan. Bake until a toothpick inserted into the center comes out clean, about 45 minutes. Let cool in pan on a wire rack for 20 minutes. Turn out cake from pan, and discard parchment. Let cool completely, right side up.</li>
+
+
+<li>Trim top of cake using a serrated knife to create a level surface. Transfer cake, cut side down, to a platter. Pour chocolate glaze over the top, and let set, about 30 minutes. Garnish with beet chips.</li>
+ </ol>   
+</div>
+  
+ <h3>References:</h3>
+    <ul> 
+        <li><a href=https://www.marthastewart.com/857644/chocolate-beet-cake>Chocolate Beet Cake Recipe</a></li>
+        
+        <li><a href=https://search.creativecommons.org/photos/b6b36c7b-c2d1-4c20-96b9-890ad72a71c8>Image Used</a></li>
+  
+    
+       
+<p>HTML by Noah Woods</p>
+   </div> 
+</body>
+</html>
+    
